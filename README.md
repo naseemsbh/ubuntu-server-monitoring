@@ -245,3 +245,23 @@ When accessing the services from the Ubuntu VM:
 
 **Project:** Ubuntu Server Monitoring  
 **Repository:** `ubuntu-server-monitoring`
+
+## Screenshots
+
+### Grafana Monitoring Dashboard
+
+The dashboard visualizes CPU usage, memory usage, disk usage, network traffic, and target health.
+
+![Grafana Monitoring Dashboard](screenshots/grafana-dashboard.png)
+
+### Prometheus Targets
+
+Both Prometheus and Node Exporter targets should be UP when metrics collection is working correctly.
+
+![Prometheus Targets](screenshots/prometheus-targets.png)
+
+### Grafana Alert Rules
+
+The project includes alert rules for Node Exporter availability, CPU usage, memory usage, and disk usage.
+
+![Grafana Alert Rules](screenshots/grafana-alert-rules.png)
