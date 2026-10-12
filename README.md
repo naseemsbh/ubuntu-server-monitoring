@@ -226,7 +226,6 @@ When accessing the services from the Ubuntu VM:
 
 - Configure email or another notification contact point.
 - Test the firing and recovery behavior of each real alert.
-- Add screenshots of the completed dashboard and alert rules.
 - Improve dashboard organization and add additional system metrics.
 - Document further troubleshooting and recovery scenarios.
 
